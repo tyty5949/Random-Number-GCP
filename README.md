@@ -4,7 +4,14 @@ Java App Engine: http://software-engineering-i-252417.appspot.com/
 
 ## App Engine Python Program
 
+To edit the program, you need to edit main.py which can be found in
+python-docs-samples/appengine/standard/hello_world. Make changes then
+deploy the app again and go to the url to see the program. Follow the
+steps below to edit the program:
 
+cd python-docs-samples/appengine/standard/hello_world
+Edit main.py
+gcloud app deploy
 
 
 Python App Engine: https://software-engineering-251217.appspot.com/
@@ -12,15 +19,10 @@ Python App Engine: https://software-engineering-251217.appspot.com/
 ## Compute Engine Python Program
 
 Flask must be installed on the machine. 
-
 Updated python must also be installed on machine.
-
 Clone this repository
-
 Once installed run the command to start the server.
-
 Then connect to the public ip adress on port 5000
-
 Run command: env FLASK_APP=main.py flask run -h 10.128.0.2
 
 
