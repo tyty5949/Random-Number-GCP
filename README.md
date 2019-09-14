@@ -1,6 +1,18 @@
 # Random-Number-GCP
 
+## App Engine Java Program
+
+
+
 Java App Engine: http://software-engineering-i-252417.appspot.com/
+
+## Compute Engine Java Program
+
+Install tomcat server based on https://www.thegeekstuff.com/2017/06/install-tomcat-linux/ and start it.
+Clone the git repository https://github.com/tyty5949/Random-Number-GCP.git. Copy the /random-gcp folder into the
+/webapps directory within the tomcat server installation.
+
+Java Compute Engine: http://104.155.158.101:8080/random-gcp/random.jsp
 
 ## App Engine Python Program
 
