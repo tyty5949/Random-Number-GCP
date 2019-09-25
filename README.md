@@ -43,3 +43,4 @@ Run command: env FLASK_APP=main.py flask run -h 10.128.0.2
 
 
 Python Compute Engine: http://34.70.16.247:5000/
+Asia East -2 zone a  : http://35.220.139.138:5000/
