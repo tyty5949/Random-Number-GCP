@@ -30,6 +30,10 @@ Edit main.py
 gcloud app deploy
 
 
+Asia East App Engine: http://experimentproject-254019.appspot.com/
+
+Note: This is no longer working. Use Asia East App Engine
+
 Python App Engine: https://software-engineering-251217.appspot.com/
 
 ## Compute Engine Python Program
@@ -42,5 +46,7 @@ Then connect to the public ip adress on port 5000
 Run command: env FLASK_APP=main.py flask run -h 10.128.0.2
 
 
+Note: This service is no longer supported. Use Asia East server
 Python Compute Engine: http://34.70.16.247:5000/
+
 Asia East -2 zone a  : http://35.220.139.138:5000/
