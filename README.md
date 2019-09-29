@@ -16,7 +16,10 @@ Install tomcat server based on https://www.thegeekstuff.com/2017/06/install-tomc
 Clone the git repository https://github.com/tyty5949/Random-Number-GCP.git. Copy the /random-gcp folder into the
 /webapps directory within the tomcat server installation.
 
+Note: This service is no longer supported. Use Asia East server
 Java Compute Engine: http://104.155.158.101:8080/random-gcp/random.jsp
+
+Asia East -2 zone a: http://34.92.91.211:8080/random-gcp/random.jsp
 
 ## App Engine Python Program
 
