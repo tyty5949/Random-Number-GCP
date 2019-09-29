@@ -2,13 +2,16 @@
 
 ## App Engine Java Program
 
-Clone the git repository https://github.com/tyty5949/Random-Number-GCP.git.
-Copy the /appengine-try-java.
-Execute mvn appengine:runc. Then execute gcloud app create. Then execute gcloud config set project '<your project name>'.
-Then execute mvn appengine:deploy.
+Create a new App Engine Project and App.
+Then clone the git repository https://github.com/tyty5949/Random-Number-GCP.git.
+CD into repo then into `/appengine-try-java` directory.
+Execute `gcloud config set project '<your project name>'`.
+Then execute `mvn appengine:deploy`.
 
-
+Note: This service is no longer supported. Use Asia East server
 Java App Engine: http://software-engineering-i-252417.appspot.com/
+
+Asia East App Engine: http://software-engineering-i-2.appspot.com/
 
 ## Compute Engine Java Program
 
