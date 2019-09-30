@@ -11,7 +11,7 @@ Then execute `mvn appengine:deploy`.
 Note: This service is no longer supported. Use Asia East server
 Java App Engine: http://software-engineering-i-252417.appspot.com/
 
-Asia East App Engine: http://software-engineering-i-2.appspot.com/
+Asia East App Engine: http://software-engineering-i-2.appspot.com/demo
 
 ## Compute Engine Java Program
 
