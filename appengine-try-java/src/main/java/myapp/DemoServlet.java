@@ -28,6 +28,6 @@ public class DemoServlet extends HttpServlet {
       throws IOException {
     resp.setContentType("application/json");
     Random random = new Random();
-    resp.getWriter().println("{ \"name\": \"" + random.nextInt(1000000) +  "\" }");
+    resp.getWriter().println(random.nextInt(1000000));
   }
 }
